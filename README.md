@@ -23,6 +23,7 @@ Built in Flutter using clean architecture, Riverpod, Hive, and Gemini AI.
 
 ### Clean Architecture Implementation
 lib/
+│
 ├── core/     
 ├── data
 │   ├── models/           
@@ -84,4 +85,3 @@ GEMINI_API_KEY=your_gemini_api_key_here
 - Includes unit test for `aiAssistantProvider`:
   - Ensures initial state is not loading, has no errors, and no generated tasks.
 - All business logic is testable due to clean architecture separation.
-- Example test:
