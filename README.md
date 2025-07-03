@@ -23,7 +23,7 @@ Built in Flutter using clean architecture, Riverpod, Hive, and Gemini AI.
 
 ### Clean Architecture Implementation
 lib/
-│
+
 ├── core/     
 ├── data
 │   ├── models/           
